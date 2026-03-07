@@ -19,7 +19,6 @@ let exemploComoArray = texto[2];
 console.log(exemploAt);
 console.log(exemploComoArray);
 
-
 // Utilização do método concat()
 let texto2 = "Verde";
 let texto3 = texto.concat(" ", texto2);
