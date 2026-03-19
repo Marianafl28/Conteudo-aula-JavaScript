@@ -1,0 +1,10 @@
+//Utilizando o innerHTML
+const elemento1 = document.querySelector(".mudandoElemento");
+
+elemento1.innerHTML = "Somente a dor coletiva gera união.";
+
+//Alterando atributos
+
+const elemento = document.querySelector(".foto");
+
+elemento.src = " ";
